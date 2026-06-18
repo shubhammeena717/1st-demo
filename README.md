@@ -1,5 +1,5 @@
 <head>
-<title><b>first-demo</b></h1></title>
+<title>first-demo</title>
 </head>
 This is my first GitHub repository.
 <br>
