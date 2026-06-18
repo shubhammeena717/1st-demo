@@ -1,2 +1,3 @@
-# 1st-demo
-this is my first github repository
+# first-demo
+This is my first GitHub repository
+Author - Shubham Meena
